@@ -1,0 +1,3 @@
+/home/pi/Desktop/Hw7/build-dir/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/Hw7/build-dir/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/Hw7/build-dir/CMakeFiles/Hw7.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Hw7.dir/Hw7.cpp.o  -o Hw7 -rdynamic 
